@@ -9,4 +9,6 @@ jobs:
       - uses: actions/checkout@v1
       - uses: ./action-a
         with:
-          MY_NAME: "Elmos2021"
+
+          MY_NAME: "Elmos2021 2"
+
