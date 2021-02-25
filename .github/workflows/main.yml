@@ -10,4 +10,6 @@ jobs:
       - uses: ./action-a
         with:
 
-          MY_NAME: "Elmos2021"
+
+          MY_NAME: "Elmos2021 3"
+
